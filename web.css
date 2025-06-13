@@ -532,7 +532,8 @@ img{
     justify-content: center;
     align-items: center;
     text-align: center;
-    grid-gap: 1rem;
+    grid-gap: 0.5rem;
+    row-gap: 0.5rem;
     padding: 1rem 80px;
     font-size: 1.2rem;
 }
